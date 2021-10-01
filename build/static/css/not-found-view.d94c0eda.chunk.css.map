@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/NotFoundView/NotFoundView.module.css"],"names":[],"mappings":"AAAA,0BACE,cAAe,CACf,iBACF,CAEA,yBACE,WAAY,CACZ,YACF","file":"not-found-view.d94c0eda.chunk.css","sourcesContent":[".main {\n  padding: 40px 0;\n  text-align: center;\n}\n\n.img {\n  width: 300px;\n  height: 300px;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/HomeView/HomeView.module.css"],"names":[],"mappings":"AAAA,yBACE,cAAe,CACf,iBACF,CAEA,qBACE,WAAY,CACZ,YACF","file":"home-view.4358f8a9.chunk.css","sourcesContent":[".wrapper {\n  padding: 40px 0;\n  text-align: center;\n}\n\n.img {\n  width: 300px;\n  height: 300px;\n}\n"]}
